@@ -1,0 +1,113 @@
+{
+  "slug": "cometclear",
+  "box": 184,
+  "date": "2026-10-23",
+  "title": "CometClear",
+  "question": "How do comets work?",
+  "hook": "A comet is a dark lump of dusty ice a few kilometres across that spends decades frozen in the dark. Ride Halley's comet along its real orbit, watch the ice wake up inside 3 AU, push dust grains with sunlight, blow the ion tail with the solar wind, and follow the dust down to the Perseids.",
+  "thumbText": "HOW COMETS WORK",
+  "field": "physics",
+  "minutes": 12,
+  "tags": [
+    "comets",
+    "Halley's comet",
+    "Rosetta",
+    "67P",
+    "solar system",
+    "astronomy",
+    "physics",
+    "Kepler's laws",
+    "solar wind",
+    "radiation pressure",
+    "meteor showers",
+    "Perseids",
+    "Oort cloud",
+    "Kuiper belt",
+    "Shoemaker–Levy 9",
+    "DART",
+    "three.js"
+  ],
+  "explainer": [
+    {
+      "title": "A dirty snowball with a dark crust",
+      "text": "The nucleus is a few kilometres of ice, dust and dark organic material. Rosetta's comet 67P is two lobes, about 4.1 km and 2.5 km long, weighs 1.0 × 10¹³ kg and is only half as dense as ice. Its gravity is so weak that a 50 kg student would weigh as much as about 1 g on Earth, and its escape speed is under 1 m/s."
+    },
+    {
+      "title": "A long ellipse and a wake-up",
+      "text": "Halley's comet rides a needle-thin ellipse (a = 17.93 AU, e = 0.968, JPL) from 0.57 AU to 35 AU. By Kepler's second law it passes the Sun at about 55 km/s and crawls at under 1 km/s far out. A dark grain at 1 AU settles at 278 K, the same sum as PlanetClear's frost line. Inside about 3 AU sunlit ice sublimates fast, so Halley is awake for only about a year of each 76-year lap."
+    },
+    {
+      "title": "Two tails, two pushes",
+      "text": "Neither tail trails behind like smoke. Charged gas is swept straight out by the solar wind at about 400 km/s, so the blue ion tail points almost exactly away from the Sun. Dust is pushed by sunlight itself: for a 10 µm grain the push is about 6% of gravity, so grains drift onto their own orbits and fan into a curved yellow tail. Going out, both tails lead the comet."
+    },
+    {
+      "title": "Homes and endings",
+      "text": "Comets are leftover planetesimals. Jupiter-family comets come from the Kuiper belt and scattered disc; long-period comets fall in from the distant Oort cloud. They fade, break up like Shoemaker–Levy 9, which Jupiter tore apart in 1992 and swallowed in 1994, or dive into the Sun. Their dust gives meteor showers: computed from Swift–Tuttle's orbit, the Perseids hit the air at 59 km/s."
+    },
+    {
+      "title": "Water, life and danger",
+      "text": "Rosetta found more than three times Earth's heavy-hydrogen ratio in 67P's water, though comets Hartley 2 and 46P/Wirtanen match the oceans and a 2024 reanalysis questions 67P's value. Comet dust carries glycine. NASA says no known asteroid larger than 140 m has a significant chance to hit Earth for the next 100 years, and DART showed in 2022 that a push works on an asteroid."
+    },
+    {
+      "title": "Seeing and naming",
+      "text": "Every 5 magnitudes is 100 times in brightness. A fuzzy comet needs a dark sky; binoculars add about 4.3 magnitudes. C/1995 O1 means a non-periodic comet, the first found in the second half of July 1995: Hale–Bopp."
+    }
+  ],
+  "concepts": [
+    {
+      "term": "Nucleus",
+      "def": "The solid heart of a comet: a few kilometres of ice, dust and organic material with a dark crust."
+    },
+    {
+      "term": "Sublimation",
+      "def": "Ice turning straight into gas, as comet ice does in sunlight inside about 3 AU."
+    },
+    {
+      "term": "Coma",
+      "def": "The cloud of gas and dust round a warming nucleus, hundreds of thousands of kilometres across."
+    },
+    {
+      "term": "Ion tail",
+      "def": "Charged gas swept straight away from the Sun by the solar wind. It glows blue."
+    },
+    {
+      "term": "Dust tail",
+      "def": "Dust pushed by sunlight, curved along the orbit and yellowish-white in reflected light."
+    },
+    {
+      "term": "Radiation pressure",
+      "def": "The push of light. For a dust grain, β is that push divided by the Sun's gravity."
+    },
+    {
+      "term": "Oort cloud",
+      "def": "A vast, round swarm of icy bodies thousands to perhaps 100,000 AU away: the home of long-period comets."
+    },
+    {
+      "term": "Kuiper belt",
+      "def": "A flat ring of icy bodies beyond Neptune, about 30 to 50 AU out, source of Jupiter-family comets."
+    },
+    {
+      "term": "Meteor shower",
+      "def": "Shooting stars from a comet's old dust as the Earth runs through it."
+    }
+  ],
+  "links": {},
+  "storage": [
+    {
+      "key": "cometclear.v1",
+      "what": "Which chapters you have opened, your best quiz scores, and sound on or off."
+    }
+  ],
+  "credits": [
+    {
+      "name": "three.js",
+      "license": "MIT",
+      "url": "https://threejs.org"
+    },
+    {
+      "name": "Geist, Instrument Serif",
+      "license": "SIL OFL 1.1",
+      "url": "https://openfontlicense.org"
+    }
+  ]
+}

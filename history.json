@@ -1,0 +1,913 @@
+{
+  "title": "The history of comets",
+  "tagline": "From omens on clay tablets and palm-leaf texts to a spacecraft landing on a comet and visitors from other stars.",
+  "intro": "For thousands of years comets were sudden, frightening visitors, recorded by astronomers in China, Babylon, India and Europe as signs of change. Tycho showed they fly far beyond the Moon, Newton put them on orbits and Halley predicted one would return. In the twentieth century scientists worked out what comets are made of and where they come from, and since 1986 spacecraft have flown past, crashed into and landed on them.",
+  "eras": [
+    {
+      "id": "omens",
+      "name": "Omens and records",
+      "from": -240,
+      "to": 1500,
+      "color": "#c49bff",
+      "summary": "Comets are signs in the sky, recorded with great care in China, Babylon, India and Europe."
+    },
+    {
+      "id": "sky",
+      "name": "Travellers among the planets",
+      "from": 1500,
+      "to": 1800,
+      "color": "#ffb547",
+      "summary": "Tycho puts a comet beyond the Moon, Newton gives comets orbits, and Halley's comet comes back on time."
+    },
+    {
+      "id": "physics",
+      "name": "What comets are",
+      "from": 1800,
+      "to": 1985,
+      "color": "#8ef0ff",
+      "summary": "Spectra, the dirty snowball, the Oort cloud, the Kuiper belt and a wind from the Sun."
+    },
+    {
+      "id": "visits",
+      "name": "Visiting comets",
+      "from": 1985,
+      "to": 2016,
+      "color": "#7be08c",
+      "summary": "Spacecraft fly past, crash into, collect dust from and finally land on comets."
+    },
+    {
+      "id": "visitors",
+      "name": "Strangers and sky surveys",
+      "from": 2017,
+      "to": 2026,
+      "color": "#ff7a59",
+      "summary": "Survey telescopes find interstellar visitors, and a spacecraft nudges an asteroid."
+    }
+  ],
+  "events": [
+    {
+      "year": -240,
+      "date": "240 BCE",
+      "era": "omens",
+      "art": "scroll",
+      "title": "China records Halley's comet",
+      "who": "Court astronomers of the Qin state",
+      "where": "China",
+      "country": "China",
+      "text": "The Shiji, a history of China, records a 'broom star' in 240 BCE. It is the earliest sighting that can be matched with certainty to Halley's comet.",
+      "why": "Old records like this let modern astronomers trace Halley's orbit back over two thousand years.",
+      "sources": [
+        0,
+        1
+      ],
+      "key": true
+    },
+    {
+      "year": -164,
+      "date": "164 BCE",
+      "era": "omens",
+      "art": "scroll",
+      "title": "Babylonian clay tablets",
+      "who": "Babylonian astronomers",
+      "where": "Babylon",
+      "country": "Iraq",
+      "text": "Astronomers in Babylon pressed notes about Halley's comet into clay tablets in 164 BCE and again in 87 BCE.",
+      "why": "They kept careful night-by-night diaries of the sky, and some survive.",
+      "sources": [
+        0
+      ]
+    },
+    {
+      "year": 550,
+      "date": "c. 6th century CE",
+      "era": "omens",
+      "art": "quill",
+      "title": "A chapter on comets in the Bṛhat Saṃhitā",
+      "who": "Varāhamihira",
+      "where": "Ujjain",
+      "country": "India",
+      "text": "Varāhamihira's great Sanskrit encyclopaedia has a chapter on ketus, which include comets, and on what people thought they foretold. Sanskrit calls a comet a dhūmaketu, a smoky banner.",
+      "why": "It shows Indian sky-watchers sorting and recording comets as carefully as any culture of the time.",
+      "sources": [
+        2
+      ],
+      "box": "seeing"
+    },
+    {
+      "year": 1066,
+      "date": "1066",
+      "era": "omens",
+      "art": "night",
+      "title": "A comet on the Bayeux Tapestry",
+      "who": "Embroiderers in England",
+      "where": "England",
+      "country": "United Kingdom",
+      "text": "The Bayeux Tapestry, made after the Norman conquest of England, shows people pointing at Halley's comet of 1066, which was seen as an omen.",
+      "why": "It is one of the most famous pictures of a comet ever made.",
+      "sources": [
+        1,
+        0
+      ]
+    },
+    {
+      "year": 1305,
+      "date": "c. 1303–1305",
+      "era": "omens",
+      "art": "palette",
+      "title": "Giotto paints a comet as the Star of Bethlehem",
+      "who": "Giotto di Bondone",
+      "where": "Padua",
+      "country": "Italy",
+      "text": "In his Adoration of the Magi, Giotto painted the star as a blazing comet. It is traditionally linked to Halley's return of 1301, though some historians now argue another comet was the model.",
+      "why": "Centuries later, ESA named its comet probe Giotto.",
+      "sources": [
+        3,
+        4
+      ]
+    },
+    {
+      "year": 1577,
+      "date": "November 1577",
+      "era": "sky",
+      "art": "eye",
+      "title": "Tycho puts a comet beyond the Moon",
+      "who": "Tycho Brahe",
+      "where": "Hven",
+      "country": "Denmark",
+      "text": "Tycho measured the Great Comet of 1577 from his island observatory and found it shifted against the stars far less than the Moon does. So it had to be much farther away.",
+      "why": "It proved comets are not weather in our air but travellers among the planets.",
+      "sources": [
+        5,
+        6
+      ],
+      "key": true
+    },
+    {
+      "year": 1618,
+      "date": "November 1618",
+      "era": "sky",
+      "art": "scroll",
+      "title": "Jahangir records two comets",
+      "who": "Emperor Jahangir",
+      "where": "between Dohad and Agra",
+      "country": "India",
+      "text": "The Mughal emperor Jahangir described two comets seen in November 1618 in his memoirs, the Tuzuk-i-Jahangiri. A 2016 study argues he spotted them independently of European observers.",
+      "why": "It is a careful Indian record from the year astronomers worldwide were watching the same comets.",
+      "sources": [
+        7
+      ]
+    },
+    {
+      "year": 1687,
+      "date": "1687",
+      "era": "sky",
+      "art": "apple",
+      "title": "Newton puts a comet on an orbit",
+      "who": "Isaac Newton",
+      "where": "Cambridge",
+      "country": "United Kingdom",
+      "text": "In his Principia Newton showed that the Great Comet of 1680 moved on a long curve round the Sun under the same gravity that holds the planets.",
+      "why": "Comets became part of physics: their paths could be calculated.",
+      "sources": [
+        8
+      ]
+    },
+    {
+      "year": 1705,
+      "date": "1705",
+      "era": "sky",
+      "art": "quill",
+      "title": "Halley predicts a return",
+      "who": "Edmond Halley",
+      "where": "Oxford",
+      "country": "United Kingdom",
+      "text": "In his Synopsis of the Astronomy of Comets, Halley argued that the comets of 1531, 1607 and 1682 were one object on a long ellipse, and predicted it would return in 1758.",
+      "why": "It was the first prediction that a comet would come back.",
+      "sources": [
+        1,
+        44
+      ],
+      "key": true,
+      "box": "orbit"
+    },
+    {
+      "year": 1758,
+      "date": "25 December 1758",
+      "era": "sky",
+      "art": "orbit",
+      "title": "The comet comes back",
+      "who": "Johann Georg Palitzsch; Alexis Clairaut, Jérôme Lalande and Nicole-Reine Lepaute",
+      "where": "Dresden and Paris",
+      "country": "Germany and France",
+      "text": "A farmer and amateur astronomer, Palitzsch, spotted the returning comet on Christmas night 1758. In Paris, Clairaut, Lalande and Lepaute had worked out how Jupiter and Saturn would delay it; it passed the Sun on 13 March 1759.",
+      "why": "Newton's gravity had predicted a comet's return, and it bears Halley's name ever since.",
+      "sources": [
+        0,
+        9
+      ],
+      "key": true,
+      "box": "orbit"
+    },
+    {
+      "year": 1872,
+      "date": "2–3 December 1872",
+      "era": "physics",
+      "art": "telescope",
+      "title": "A comet seen from Madras",
+      "who": "Norman Pogson",
+      "where": "Madras Observatory, Chennai",
+      "country": "India",
+      "text": "Searching for the lost comet Biela, Pogson at Madras found a comet-like object on two nights. With too few sightings for an orbit it is listed as X/1872 X1, probably not Biela.",
+      "why": "It is an early comet find from an Indian observatory, and a reminder that not every sighting can be pinned down.",
+      "sources": [
+        10,
+        11
+      ]
+    },
+    {
+      "year": 1910,
+      "date": "19 May 1910",
+      "era": "physics",
+      "art": "night",
+      "title": "Earth passes through Halley's tail",
+      "who": "Halley's comet",
+      "where": "Worldwide",
+      "country": "Worldwide",
+      "text": "Spectra had shown cyanogen gas in comet tails, and when the Earth passed through Halley's tail some people panicked and bought 'comet pills'. Nothing happened: the tail is far too thin to harm anyone.",
+      "why": "It is a lesson in how a scientific fact can be turned into a scare.",
+      "sources": [
+        0
+      ]
+    },
+    {
+      "year": 1950,
+      "date": "1950",
+      "era": "physics",
+      "art": "snowflake",
+      "title": "The dirty snowball",
+      "who": "Fred Whipple",
+      "where": "Harvard, Cambridge, Massachusetts",
+      "country": "USA",
+      "text": "Whipple proposed that a comet's heart is a solid 'icy conglomerate' of ices and dust. Jets of gas from the warmed side would push the comet like a weak rocket, explaining why some arrived early or late.",
+      "why": "It is the model every space mission since has tested and refined.",
+      "sources": [
+        12
+      ],
+      "key": true,
+      "box": "anatomy"
+    },
+    {
+      "year": 1950,
+      "date": "1950",
+      "era": "physics",
+      "art": "orbit",
+      "title": "A cloud of comets far away",
+      "who": "Jan Oort",
+      "where": "Leiden",
+      "country": "Netherlands",
+      "text": "Oort noticed that many long-period comets fall in from about the same huge distance, from every direction. He argued that a vast, round cloud of comets surrounds the Solar System.",
+      "why": "No one has seen the Oort cloud directly, but it explains where long-period comets come from.",
+      "sources": [
+        13
+      ],
+      "box": "families"
+    },
+    {
+      "year": 1951,
+      "date": "1951",
+      "era": "physics",
+      "art": "wind",
+      "title": "Comet tails reveal a wind from the Sun",
+      "who": "Ludwig Biermann",
+      "where": "Göttingen",
+      "country": "Germany",
+      "text": "Biermann saw that ion tails are pushed away from the Sun far harder than sunlight alone can manage. He argued that the Sun must blow out a constant stream of particles. Eugene Parker's theory of the solar wind followed in 1958.",
+      "why": "Comets were the first solar-wind detectors.",
+      "sources": [
+        14
+      ],
+      "box": "tails"
+    },
+    {
+      "year": 1951,
+      "date": "1943–1951",
+      "era": "physics",
+      "art": "orbit",
+      "title": "A belt beyond Neptune",
+      "who": "Kenneth Edgeworth and Gerard Kuiper",
+      "where": "Ireland and the USA",
+      "country": "Ireland and USA",
+      "text": "Edgeworth (1943, 1949) and Kuiper (1951) wrote about a band of small icy bodies past Neptune. The idea grew into the Kuiper belt, source of the short-period comets.",
+      "why": "It pointed to a second store of comets, much closer than the Oort cloud.",
+      "sources": [
+        15
+      ]
+    },
+    {
+      "year": 1986,
+      "date": "6–14 March 1986",
+      "era": "visits",
+      "art": "rocket",
+      "title": "The Halley armada",
+      "who": "ESA, the Soviet Union and Japan",
+      "where": "Space, near Halley's comet",
+      "country": "International",
+      "text": "Five spacecraft flew past Halley's comet. The Soviet Vega probes and Japan's Suisei and Sakigake went first; ESA's Giotto then passed within about 600 km of the nucleus on 14 March and photographed it: about 15 km long, and so dark it reflected only 2 to 4% of the sunlight.",
+      "why": "For the first time people saw a comet's nucleus, and it was black, not white.",
+      "sources": [
+        17,
+        18
+      ],
+      "key": true,
+      "box": "anatomy"
+    },
+    {
+      "year": 1992,
+      "date": "30 August 1992",
+      "era": "visits",
+      "art": "telescope",
+      "title": "The Kuiper belt is found",
+      "who": "David Jewitt and Jane Luu",
+      "where": "Mauna Kea, Hawaii",
+      "country": "USA",
+      "text": "After five years of searching, Jewitt and Luu found 1992 QB1, a small icy world beyond Neptune: the first Kuiper belt object after Pluto and Charon.",
+      "why": "The predicted belt was real; thousands more have been found since.",
+      "sources": [
+        16
+      ]
+    },
+    {
+      "year": 1994,
+      "date": "16–22 July 1994",
+      "era": "visits",
+      "art": "flame",
+      "title": "Comet pieces hit Jupiter",
+      "who": "Carolyn and Eugene Shoemaker, David Levy",
+      "where": "Jupiter",
+      "country": "Worldwide",
+      "text": "Comet Shoemaker–Levy 9, found in March 1993, had been torn into about 21 pieces when it passed close to Jupiter in July 1992. In July 1994 they crashed into Jupiter at about 60 km/s, leaving dark scars bigger than the Earth.",
+      "why": "It was the first collision between two Solar System bodies ever watched.",
+      "sources": [
+        19
+      ],
+      "key": true,
+      "box": "families"
+    },
+    {
+      "year": 1997,
+      "date": "1 April 1997",
+      "era": "visits",
+      "art": "eye",
+      "title": "Hale–Bopp, the comet everyone saw",
+      "who": "Alan Hale and Thomas Bopp",
+      "where": "Worldwide",
+      "country": "Worldwide",
+      "text": "Found on 23 July 1995, Hale–Bopp stayed visible to the naked eye for about 18 months, a record, with a nucleus perhaps 60 km across. It passed the Sun on 1 April 1997.",
+      "why": "It was probably the most widely seen comet in history.",
+      "sources": [
+        20,
+        43
+      ],
+      "box": "seeing"
+    },
+    {
+      "year": 2005,
+      "date": "4 July 2005",
+      "era": "visits",
+      "art": "rocket",
+      "title": "Deep Impact hits a comet",
+      "who": "NASA",
+      "where": "Comet 9P/Tempel 1",
+      "country": "USA",
+      "text": "NASA's Deep Impact fired a copper impactor into comet Tempel 1 at about 10 km/s and studied the cloud of dust and ice it blasted out.",
+      "why": "It showed what lies just under a comet's crust.",
+      "sources": [
+        21
+      ]
+    },
+    {
+      "year": 2006,
+      "date": "15 January 2006",
+      "era": "visits",
+      "art": "molecule",
+      "title": "Comet dust comes to Earth",
+      "who": "NASA Stardust",
+      "where": "Comet 81P/Wild 2 and Utah",
+      "country": "USA",
+      "text": "Stardust flew through comet Wild 2's coma on 2 January 2004, caught dust in a light foam called aerogel and landed it in Utah in 2006. In 2009 scientists found glycine, an amino acid, in the samples.",
+      "why": "For the first time scientists could hold comet dust in the laboratory.",
+      "sources": [
+        22
+      ],
+      "box": "water"
+    },
+    {
+      "year": 2014,
+      "date": "12 November 2014",
+      "era": "visits",
+      "art": "rocket",
+      "title": "Rosetta arrives and Philae lands",
+      "who": "ESA, with DLR and other partners",
+      "where": "Comet 67P/Churyumov–Gerasimenko",
+      "country": "Europe",
+      "text": "Launched in March 2004, ESA's Rosetta reached comet 67P on 6 August 2014 and released the lander Philae, which touched down on 12 November 2014: the first landing on a comet.",
+      "why": "Rosetta then flew beside the comet for two years as it warmed and woke up.",
+      "sources": [
+        25,
+        42
+      ],
+      "key": true,
+      "box": "anatomy"
+    },
+    {
+      "year": 2014,
+      "date": "10 December 2014",
+      "era": "visits",
+      "art": "waterdrop",
+      "title": "Rosetta measures the comet's heavy water",
+      "who": "ESA Rosetta (ROSINA team)",
+      "where": "Comet 67P",
+      "country": "Europe",
+      "text": "Rosetta found that 67P's water has a deuterium-to-hydrogen ratio more than three times that of Earth's oceans. In 2024 a NASA-led reanalysis argued that dust had pushed the reading up.",
+      "why": "It reopened the question of how much of Earth's water came from comets.",
+      "sources": [
+        23,
+        26
+      ],
+      "box": "water"
+    },
+    {
+      "year": 2016,
+      "date": "30 September 2016",
+      "era": "visits",
+      "art": "molecule",
+      "title": "Ingredients for life, and a gentle end",
+      "who": "ESA Rosetta",
+      "where": "Comet 67P",
+      "country": "Europe",
+      "text": "Rosetta's instruments found glycine and phosphorus round 67P (announced in May 2016). On 30 September 2016 Rosetta was steered down onto the comet to end the mission.",
+      "why": "Comets carry some of the chemistry life is built from.",
+      "sources": [
+        24,
+        25
+      ],
+      "box": "water"
+    },
+    {
+      "year": 2017,
+      "date": "19 October 2017",
+      "era": "visitors",
+      "art": "telescope",
+      "title": "A visitor from another star",
+      "who": "Robert Weryk, Pan-STARRS",
+      "where": "Haleakalā, Hawaii",
+      "country": "USA",
+      "text": "A survey telescope found 'Oumuamua moving too fast to be bound to the Sun. The IAU created a new I/ class for it: 1I, the first known interstellar object. It showed no clear coma.",
+      "why": "It proved that small bodies travel between the stars.",
+      "sources": [
+        27,
+        28
+      ],
+      "key": true
+    },
+    {
+      "year": 2019,
+      "date": "30 August 2019",
+      "era": "visitors",
+      "art": "telescope",
+      "title": "Borisov, an interstellar comet",
+      "who": "Gennadiy Borisov",
+      "where": "Nauchnij, Crimea",
+      "country": "Disputed (Crimea)",
+      "text": "An amateur astronomer with a home-made telescope found 2I/Borisov, the first clearly comet-like visitor from another star. Indian astronomers studied it with the Himalayan Chandra Telescope at Hanle and the 1.2 m telescope at Mount Abu and found it rich in CN gas.",
+      "why": "Comets round other stars seem to be made of much the same stuff as ours.",
+      "sources": [
+        29
+      ]
+    },
+    {
+      "year": 2020,
+      "date": "July 2020",
+      "era": "visitors",
+      "art": "night",
+      "title": "NEOWISE lights up a lockdown sky",
+      "who": "NASA's NEOWISE space telescope",
+      "where": "Worldwide",
+      "country": "Worldwide",
+      "text": "Found on 27 March 2020, comet NEOWISE reached about magnitude 1 in July and was seen by people all over the world.",
+      "why": "It was the brightest comet in the northern sky since Hale–Bopp.",
+      "sources": [
+        30
+      ],
+      "box": "seeing"
+    },
+    {
+      "year": 2022,
+      "date": "26 September 2022",
+      "era": "visitors",
+      "art": "rocket",
+      "title": "DART pushes an asteroid",
+      "who": "NASA",
+      "where": "Dimorphos, moon of the asteroid Didymos",
+      "country": "USA",
+      "text": "NASA's DART spacecraft hit Dimorphos and shortened its orbit round Didymos from 11 h 55 min to 11 h 23 min.",
+      "why": "The first test of moving a space rock on purpose. It was an asteroid, not a comet.",
+      "sources": [
+        32,
+        31
+      ],
+      "box": "water"
+    },
+    {
+      "year": 2024,
+      "date": "October 2024",
+      "era": "visitors",
+      "art": "night",
+      "title": "Tsuchinshan–ATLAS over India",
+      "who": "Purple Mountain Observatory and the ATLAS survey",
+      "where": "Worldwide",
+      "country": "China, USA",
+      "text": "Comet C/2023 A3 passed the Sun on 27 September 2024 and shone in October evening skies, seen widely from India. In March 2024 the SOHO spacecraft had found its 5,000th comet, most of them sungrazers.",
+      "why": "Bright comets are rare, and nobody can promise the next one.",
+      "sources": [
+        33,
+        34,
+        35
+      ],
+      "box": "seeing"
+    },
+    {
+      "year": 2025,
+      "date": "1 July 2025",
+      "era": "visitors",
+      "art": "telescope",
+      "title": "A third interstellar visitor",
+      "who": "ATLAS survey telescope",
+      "where": "Río Hurtado, Chile",
+      "country": "Chile",
+      "text": "3I/ATLAS was found on 1 July 2025 and passed the Sun around 30 October 2025, about 1.4 AU out. In November 2025 India's Physical Research Laboratory observed it from Mount Abu and found its gases fairly typical of comets.",
+      "why": "Three interstellar objects in eight years: survey telescopes are finding what was always passing through.",
+      "sources": [
+        36,
+        37
+      ],
+      "key": true
+    }
+  ],
+  "firsts": [
+    {
+      "label": "Earliest certain record of Halley's comet",
+      "value": "240 BCE",
+      "who": "Shiji, China"
+    },
+    {
+      "label": "A comet shown to be beyond the Moon",
+      "value": "1577",
+      "who": "Tycho Brahe, Denmark"
+    },
+    {
+      "label": "First predicted return of a comet",
+      "value": "1758–59",
+      "who": "Edmond Halley, England (prediction of 1705)"
+    },
+    {
+      "label": "First close-up of a comet nucleus",
+      "value": "14 March 1986",
+      "who": "ESA's Giotto, at Halley"
+    },
+    {
+      "label": "First collision of two Solar System bodies watched",
+      "value": "July 1994",
+      "who": "Shoemaker–Levy 9 and Jupiter"
+    },
+    {
+      "label": "First comet dust brought to Earth",
+      "value": "15 January 2006",
+      "who": "NASA's Stardust, from comet Wild 2"
+    },
+    {
+      "label": "First landing on a comet",
+      "value": "12 November 2014",
+      "who": "Philae, from ESA's Rosetta, on 67P"
+    },
+    {
+      "label": "First known interstellar object",
+      "value": "19 October 2017",
+      "who": "1I/'Oumuamua, Pan-STARRS, Hawaii"
+    }
+  ],
+  "people": [
+    {
+      "name": "Varāhamihira",
+      "life": "c. 505 – 587",
+      "role": "Astronomer and writer",
+      "from": "India",
+      "note": "His Bṛhat Saṃhitā has a chapter on comets and other ketus."
+    },
+    {
+      "name": "Tycho Brahe",
+      "life": "1546 – 1601",
+      "role": "Astronomer",
+      "from": "Denmark",
+      "note": "Measured the comet of 1577 and showed it was far beyond the Moon."
+    },
+    {
+      "name": "Edmond Halley",
+      "life": "1656 – 1742",
+      "role": "Astronomer",
+      "from": "England",
+      "note": "Predicted that the comet of 1682 would return in 1758."
+    },
+    {
+      "name": "Nicole-Reine Lepaute",
+      "life": "1723 – 1788",
+      "role": "Astronomer and calculator",
+      "from": "France",
+      "note": "Helped compute how Jupiter and Saturn would delay Halley's 1759 return."
+    },
+    {
+      "name": "Fred Whipple",
+      "life": "1906 – 2004",
+      "role": "Astronomer",
+      "from": "USA",
+      "note": "Proposed the icy 'dirty snowball' nucleus in 1950."
+    },
+    {
+      "name": "Jan Oort",
+      "life": "1900 – 1992",
+      "role": "Astronomer",
+      "from": "Netherlands",
+      "note": "Argued in 1950 for a vast cloud of comets round the Solar System."
+    },
+    {
+      "name": "Carolyn Shoemaker",
+      "life": "1929 – 2021",
+      "role": "Astronomer",
+      "from": "USA",
+      "note": "Co-discovered Shoemaker–Levy 9 and found more comets than almost anyone of her time."
+    },
+    {
+      "name": "Jane Luu",
+      "life": "born 1963",
+      "role": "Astronomer",
+      "from": "Vietnam and USA",
+      "note": "With David Jewitt, found the first Kuiper belt object after Pluto in 1992."
+    }
+  ],
+  "series": [
+    {
+      "id": "soho",
+      "title": "Comets found by the SOHO spacecraft",
+      "unit": "comets",
+      "log": false,
+      "after": "visitors",
+      "caption": "Most of SOHO's finds are tiny sungrazers of the Kreutz family, spotted in its images by volunteers.",
+      "points": [
+        {
+          "year": 2020,
+          "value": 3953,
+          "label": "NASA: 3,953 comets as of May 2020"
+        },
+        {
+          "year": 2024,
+          "value": 5000,
+          "label": "ESA: the 5,000th, March 2024"
+        }
+      ]
+    }
+  ],
+  "facts": [
+    "A comet's nucleus is very dark: Giotto found Halley's reflects only 2 to 4% of the sunlight that hits it.",
+    "Comet 67P is so light for its size that a 50 kg person would weigh about as much as a gram does on Earth.",
+    "Comet Hyakutake's ion tail was crossed by the Ulysses probe at least 550 million km from the comet.",
+    "Comets' tails point away from the Sun, so a comet heading out into space travels tail-first.",
+    "The Perseid meteors every August are dust from comet Swift–Tuttle, hitting the air at about 59 km/s."
+  ],
+  "sources": [
+    {
+      "title": "Halley's Comet",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Halley%27s_Comet"
+    },
+    {
+      "title": "1P/Halley",
+      "publisher": "NASA Science",
+      "url": "https://science.nasa.gov/solar-system/comets/1p-halley/"
+    },
+    {
+      "title": "Bṛhat Saṃhitā",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/B%E1%B9%9Bhat_Sa%E1%B9%83hit%C4%81"
+    },
+    {
+      "title": "Adoration of the Magi (Giotto)",
+      "publisher": "ESA Science",
+      "url": "https://sci.esa.int/web/giotto/-/13965-adoration-of-the-magi"
+    },
+    {
+      "title": "What was the comet depicted in Giotto's Adoration of the Magi?",
+      "publisher": "British Astronomical Association",
+      "url": "https://britastro.org/journal_contents_ite/what-was-the-comet-depicted-in-giottos-adoration-of-the-magi"
+    },
+    {
+      "title": "Tycho Brahe",
+      "publisher": "Museo Galileo",
+      "url": "https://catalogue.museogalileo.it/biography/TychoBrahe.html"
+    },
+    {
+      "title": "Great Comet of 1577",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Great_Comet_of_1577"
+    },
+    {
+      "title": "Jahangir and the comets of 1618 (R. C. Kapoor, Journal of Astronomical History and Heritage 19, 264)",
+      "publisher": "JAHH",
+      "url": "https://ui.adsabs.harvard.edu/abs/2016JAHH...19..264K"
+    },
+    {
+      "title": "Great Comet of 1680",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Great_Comet_of_1680"
+    },
+    {
+      "title": "Nicole-Reine Lepaute",
+      "publisher": "MacTutor, University of St Andrews",
+      "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Lepaute/"
+    },
+    {
+      "title": "X/1872 X1 (Pogson)",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/X/1872_X1_(Pogson)"
+    },
+    {
+      "title": "Comets: archives",
+      "publisher": "Indian Institute of Astrophysics",
+      "url": "https://archives.iiap.res.in/index.php/comets"
+    },
+    {
+      "title": "A Comet Model. I (F. L. Whipple, Astrophysical Journal 111, 375, 1950)",
+      "publisher": "NASA ADS",
+      "url": "https://ui.adsabs.harvard.edu/abs/1950ApJ...111..375W"
+    },
+    {
+      "title": "The structure of the cloud of comets surrounding the Solar System (J. H. Oort, BAN 11, 91, 1950)",
+      "publisher": "Leiden University",
+      "url": "https://hdl.handle.net/1887/6036"
+    },
+    {
+      "title": "Ludwig Biermann",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ludwig_Biermann"
+    },
+    {
+      "title": "Kuiper belt",
+      "publisher": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/place/Kuiper-belt"
+    },
+    {
+      "title": "1992 QB1",
+      "publisher": "NASA Science",
+      "url": "https://science.nasa.gov/resource/1992-qb1/"
+    },
+    {
+      "title": "Giotto's comet results",
+      "publisher": "ESA",
+      "url": "https://www.esa.int/Science_Exploration/Space_Science/Rosetta/Giotto_s_comet_results"
+    },
+    {
+      "title": "Halley Armada",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Halley_Armada"
+    },
+    {
+      "title": "Comet Shoemaker-Levy 9",
+      "publisher": "NASA Solar System Exploration",
+      "url": "https://solarsystem.nasa.gov/stardust/comets/sl9.html"
+    },
+    {
+      "title": "C/1995 O1 (Hale-Bopp)",
+      "publisher": "NASA Science",
+      "url": "https://science.nasa.gov/solar-system/comets/c-1995-o1-hale-bopp/"
+    },
+    {
+      "title": "Deep Impact hits comet Tempel 1 (press release, 4 July 2005)",
+      "publisher": "NASA NSSDCA",
+      "url": "https://nssdc.gsfc.nasa.gov/planetary/text/di_pr_20050704.txt"
+    },
+    {
+      "title": "NASA researchers make first discovery of life's building block in comet",
+      "publisher": "NASA JPL",
+      "url": "https://www.jpl.nasa.gov/news/nasa-researchers-make-first-discovery-of-lifes-building-block-in-comet/"
+    },
+    {
+      "title": "Rosetta fuels debate on origin of Earth's oceans",
+      "publisher": "ESA",
+      "url": "https://www.esa.int/Science_Exploration/Space_Science/Rosetta/Rosetta_fuels_debate_on_origin_of_Earth_s_oceans"
+    },
+    {
+      "title": "Rosetta's comet contains ingredients for life",
+      "publisher": "ESA",
+      "url": "https://www.esa.int/Science_Exploration/Space_Science/Rosetta/Rosetta_s_comet_contains_ingredients_for_life"
+    },
+    {
+      "title": "Rosetta (spacecraft)",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Rosetta_(spacecraft)"
+    },
+    {
+      "title": "NASA-led team links comet water to Earth's oceans",
+      "publisher": "NASA Science",
+      "url": "https://science.nasa.gov/solar-system/nasa-led-team-links-comet-water-to-earths-oceans/"
+    },
+    {
+      "title": "ʻOumuamua",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/%CA%BBOumuamua"
+    },
+    {
+      "title": "IAU names the first interstellar object (ann17045)",
+      "publisher": "International Astronomical Union",
+      "url": "https://iau.org/news/announcements/detail/ann17045"
+    },
+    {
+      "title": "Activity of the first interstellar comet 2I/Borisov around perihelion: results from Indian observatories (Krishnakumar et al., MNRAS 2021)",
+      "publisher": "arXiv",
+      "url": "https://arxiv.org/abs/2101.02752"
+    },
+    {
+      "title": "Comet NEOWISE",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/C/2020_F3_(NEOWISE)"
+    },
+    {
+      "title": "Near-Earth Object Observations Program",
+      "publisher": "NASA",
+      "url": "https://www.nasa.gov/solar-system/near-earth-object-observations-program"
+    },
+    {
+      "title": "Double Asteroid Redirection Test",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Double_Asteroid_Redirection_Test"
+    },
+    {
+      "title": "C/2023 A3 (Tsuchinshan–ATLAS)",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/C/2023_A3_(Tsuchinshan%E2%80%93ATLAS)"
+    },
+    {
+      "title": "SOHO reaches 5000 comets",
+      "publisher": "ESA",
+      "url": "https://www.esa.int/ESA_Multimedia/Images/2024/03/SOHO_reaches_5000_comets"
+    },
+    {
+      "title": "Why ESA and NASA's SOHO spacecraft spots so many comets",
+      "publisher": "NASA",
+      "url": "https://www.nasa.gov/solar-system/why-esa-and-nasas-soho-spacecraft-spots-so-many-comets/"
+    },
+    {
+      "title": "3I/ATLAS",
+      "publisher": "NASA Science",
+      "url": "https://science.nasa.gov/solar-system/comets/3i-atlas/"
+    },
+    {
+      "title": "Observations of interstellar comet 3I/ATLAS",
+      "publisher": "ISRO",
+      "url": "https://www.isro.gov.in/Observations_Interstellar_Comet.html"
+    },
+    {
+      "title": "Comet Resolution: designations",
+      "publisher": "IAU Minor Planet Center",
+      "url": "https://minorplanetcenter.net/iau/lists/CometResolution.html"
+    },
+    {
+      "title": "Identification of comet Hyakutake's extremely long ion tail",
+      "publisher": "ESA Science",
+      "url": "https://sci.esa.int/web/ulysses/-/38848-identification-of-comet-hyakutake-s-extremely-long-ion-tail-from-magnetic-field-signatures"
+    },
+    {
+      "title": "Comets: facts",
+      "publisher": "NASA Science",
+      "url": "https://science.nasa.gov/solar-system/comets/facts/"
+    },
+    {
+      "title": "Perseids",
+      "publisher": "NASA Science",
+      "url": "https://science.nasa.gov/solar-system/meteors-meteorites/perseids/"
+    },
+    {
+      "title": "Measuring comet 67P/C-G",
+      "publisher": "ESA Rosetta blog",
+      "url": "https://blogs.esa.int/rosetta/2014/10/03/measuring-comet-67pc-g/"
+    },
+    {
+      "title": "Hale-Bopp's hydrogen cloud seen by SOHO",
+      "publisher": "ESA",
+      "url": "https://www.esa.int/ESA_Multimedia/Images/1998/01/Comet_Hale-Bopp_hydrogen_cloud_seen_by_SOHO"
+    },
+    {
+      "title": "Edmond Halley",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Edmond_Halley"
+    }
+  ]
+}
